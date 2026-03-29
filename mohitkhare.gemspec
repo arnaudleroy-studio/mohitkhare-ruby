@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'mohitkhare'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.summary     = 'Developer utilities and token counting tools'
   s.description = 'Developer utilities from Mohit Khare including token counting, text analysis, and AI engineering helper functions.'
   s.authors     = ['Mohit Khare']
@@ -12,8 +12,8 @@ Gem::Specification.new do |s|
 
   s.metadata = {
     'homepage_uri'      => 'https://mohitkhare.me',
-    'source_code_uri'   => 'https://github.com/BenchGecko/mohitkhare-ruby',
+    'source_code_uri'   => 'https://github.com/arnaudleroy-studio/mohitkhare-ruby',
     'documentation_uri' => 'https://mohitkhare.me/blog',
-    'bug_tracker_uri'   => 'https://github.com/BenchGecko/mohitkhare-ruby/issues'
+    'bug_tracker_uri'   => 'https://github.com/arnaudleroy-studio/mohitkhare-ruby/issues'
   }
 end
